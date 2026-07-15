@@ -1,0 +1,13 @@
+{
+  "name": "video-redirect-page",
+  "version": "1.0.0",
+  "description": "Video player that redirects after video ends",
+  "scripts": {
+    "dev": "npx serve . -p 8080",
+    "build": "echo \"No build required - static files\""
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
